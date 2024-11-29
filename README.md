@@ -1,6 +1,6 @@
 # Churn-Analysis
 
-This project focuses on analyzing customer churn at ABC Bank, identifying key factors contributing to attrition, and proposing actionable insights to improve customer retention strategies. The analysis uses statistical methods, data visualization, and machine learning techniques to extract meaningful insights from a bank customer dataset.
+This project focuses on analyzing customer churn at American Bank of Commerce (ABC) Bank, identifying key factors contributing to attrition, and proposing actionable insights to improve customer retention strategies. The analysis uses statistical methods, data visualization, and machine learning techniques to extract meaningful insights from a bank customer dataset.
 
 # Objective
 To analyze factors contributing to customer churn.
@@ -31,3 +31,17 @@ The dataset contains 10,000 customer records with the following features:
 11. How does the estimated salary correlate with churn, and is there a salary threshold where customers are more likely to churn?
 12. How does the number of products a customer holds relate to churn rates?
 13. How does age group influence churn rate within different credit score levels?
+
+# Technologies Used
+- Python Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy.
+- Data Visualization: Count plots, histograms, bar plots, and heatmaps for trend and pattern analysis.
+- Statistical Techniques:
+  1. Correlation Analysis.
+  2. Shapiro Wilk test
+  3. Mann-Whitney U Test
+
+# Project Structure
+- Data: The dataset that was used for the analysis.
+- Charts Folder: charts that were used in report writing
+- Notebooks: Jupyter notebooks containing data preprocessing, analysis, and visualizations.
+- Reports: Detailed findings, insights, and actionable recommendations.
