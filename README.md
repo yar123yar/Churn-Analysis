@@ -9,10 +9,10 @@ To provide data-driven recommendations for reducing churn rates and enhancing cu
 # Dataset Overview
 The dataset contains 10,000 customer records with the following features:
 
-Demographics: Age, Gender, Country.
-Financials: Credit Score, Estimated Salary, Balance.
-Banking Behavior: Tenure, Number of Products, Credit Card Ownership, Active Membership.
-Outcome: Churn indicator (1: churned, 0: retained).
+# Demographics: Age, Gender, Country.
+# Financials: Credit Score, Estimated Salary, Balance.
+# Banking Behavior: Tenure, Number of Products, Credit Card Ownership, Active Membership.
+# Outcome: Churn indicator (1: churned, 0: retained).
 
 ![image alt](https://github.com/yar123yar/Churn-Analysis/blob/025ba241945e6a5649af4d0a8a1c67f86d226f62/first5image.png)
 
