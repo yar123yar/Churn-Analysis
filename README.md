@@ -14,4 +14,4 @@ Financials: Credit Score, Estimated Salary, Balance.
 Banking Behavior: Tenure, Number of Products, Credit Card Ownership, Active Membership.
 Outcome: Churn indicator (1: churned, 0: retained).
 
-![Uploading {D394B1C3-1BA1-4F2D-A6C4-F1F6957B7C13}.png…]()
+
